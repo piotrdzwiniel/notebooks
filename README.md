@@ -8,7 +8,7 @@
 
 ### Risk Factors for Heart Disease on AI-Generated Data
 
-The [notebook](https://github.com/piotrdzwiniel/notebooks/blob/master/bioinformatics/risk_actors_for_heart_disease_on_ai_data.ipynb)
+The [notebook](https://github.com/piotrdzwiniel/notebooks/blob/master/bioinformatics/risk_factors_for_heart_disease_on_ai_data.ipynb)
 titled **risk_factors_for_heart_disease_on_ai_data** explores the associations
 between various risk factors and the likelihood of developing heart disease. The data used in
 this notebook was generated using AI, providing a synthetic dataset that mimics real-world
